@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.header{
+    display: flex;
+    background-color: #3A2922;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.header img{
+    width: 15%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header h1{
+    display: flex;
+    align-items: start;
+    padding: 20px;
+    
+}
+
+.header button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40%;
+    width: 13%;
+    height: 50px;
+    border-radius: 25px;
+}
+
+.product {
+    display: flex;
+
+    justify-content: center;
+    margin: 40px;
+    padding: 10px;
+}
+
+.product h1{
+    color: #3A2922;
+}
+
+.proprietario{
+    font-size: 10px;
+    background-color:#3A2922;
+    color: #C28B74;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 130px;
+    margin-top: 50px;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+    padding: 20px;
+    background-color: #3A2922;
+    color: #fff;
+}
+
+.contato img{
+    justify-content: center;
+    align-items: center;
+}
+
+footer{
+    background-color: #3A2922;
+    color: white;
+}
