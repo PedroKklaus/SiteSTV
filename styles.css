@@ -111,19 +111,24 @@ footer{
         align-items: center;
     }
     
-.product h1{
-    color: #3A2922;
-    font-size: 25px;
-}
-
-.ajReponsive{
-    margin-top: 20px;
-}
-
-.proprietario h1 {
-    font-size: 25px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+    .product h1{
+        color: #3A2922;
+        font-size: 25px;
+    }
+    
+    .ajReponsive{
+        margin-top: 20px;
+    }
+    
+    .proprietario h1 {
+        font-size: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .proprietario2 h1{
+        font-size: 28px;
+        display: flex;
+        justify-content: center;
+    }
   }
